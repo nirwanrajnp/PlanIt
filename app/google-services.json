@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "556023247677",
+    "firebase_url": "https://planit-1e570.firebaseio.com",
+    "project_id": "planit-1e570",
+    "storage_bucket": "planit-1e570.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556023247677:android:7d8dcd56942b0b08934b54",
+        "android_client_info": {
+          "package_name": "com.example.todoreminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556023247677-41nsn98hp0qh0g1q7oue25hrhobr2a0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzB20FqEXEkBvyNuRMtz6Y8i49f6fyvfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556023247677-41nsn98hp0qh0g1q7oue25hrhobr2a0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ToDo Reminder-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ToDo Reminder-app.iml" group="ToDo Reminder/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ToDo_Reminder.iml" filepath="$PROJECT_DIR$/.idea/modules/ToDo_Reminder.iml" group="ToDo_Reminder" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
