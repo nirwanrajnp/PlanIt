@@ -1,1 +1,1 @@
-This PlanIt. A simple ToDo/Reminders app.
+This is PlanIt. A simple ToDo/Reminders app.
